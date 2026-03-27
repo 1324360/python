@@ -1,3 +1,3 @@
-# CI configuration file content
+# Monitor module code
 
 # ... implementation details ...

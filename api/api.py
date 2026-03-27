@@ -1,3 +1,3 @@
-# CI configuration file content
+# API module code
 
 # ... implementation details ...

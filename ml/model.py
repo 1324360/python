@@ -1,3 +1,3 @@
-# CI configuration file content
+# Machine Learning module code
 
 # ... implementation details ...

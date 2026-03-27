@@ -1,3 +1,3 @@
-# CI configuration file content
+# Database module code
 
 # ... implementation details ...

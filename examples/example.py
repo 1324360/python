@@ -1,3 +1,3 @@
-# CI configuration file content
+# Example usage code
 
 # ... implementation details ...

@@ -1,3 +1,3 @@
-# CI configuration file content
+# Data processing module code
 
 # ... implementation details ...

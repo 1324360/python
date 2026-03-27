@@ -1,3 +1,3 @@
-# CI configuration file content
+# Crawler module code
 
 # ... implementation details ...

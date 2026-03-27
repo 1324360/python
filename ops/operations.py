@@ -1,3 +1,3 @@
-# CI configuration file content
+# Operations module code
 
 # ... implementation details ...
